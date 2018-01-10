@@ -7,7 +7,7 @@ title: WenYip's Blog
 subtitle:
 description:
 author: WenYip
-language: zh-hans
+language: zh-cn
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-next-5.1.4
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
